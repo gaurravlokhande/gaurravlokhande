@@ -40,7 +40,7 @@
  </a>
  
  
- <a href="https://twitter.com/gaurravlokhande_dev" target="_blank">
+ <a href="https://twitter.com/gaurravlokhande" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
 
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
  </a>
 
- <a href="https://instagram.com/gaurravlokhande_dev" target="_blank">
+ <a href="https://instagram.com/gaurravlokhande" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="gaurravlokhande" />
  </a> 
  <a href="https://facebook.com/gauravlokhande07" target="_blank">
