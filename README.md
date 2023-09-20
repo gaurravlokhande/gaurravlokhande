@@ -9,7 +9,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://https://www.instagram.com/gaurravlokhande/">Gaurav</a></b>
+                <b><a target="_blank" href="https://www.instagram.com/gaurravlokhande/">Gaurav</a></b>
         </samp>
 </h3>
 
