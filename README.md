@@ -42,14 +42,16 @@
 <!--  <a href="https://gaurravlokhande.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="gaurravlokhande" />
  </a> -->
+ 
+<a href="https://www.salesforce.com/trailblazer/gauravlokhande" target="_blank">
+  <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead"/>
+</a>
+
   
  <a href="https://linkedin.com/in/gauravlokhande" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gaurravlokhande"/>
  </a>
  
- <!-- <a href="https://dev.to/gaurravlokhande" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="gaurravlokhande" />
- </a> -->
  
  <a href="https://twitter.com/gaurravlokhande_dev" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -87,6 +89,10 @@
 
 ## Use To Code
 ![Apex](https://img.shields.io/badge/Apex-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+![Lightning Web Components](https://img.shields.io/badge/Lightning_Web_Components-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOSL](https://img.shields.io/badge/SOSL-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+![XML](https://img.shields.io/badge/XML-%2300A1E0.svg?style=for-the-badge&logo=xml&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -94,6 +100,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -102,6 +109,7 @@
 
 ## Top Open Source -
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=gaurravlokhande&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gaurravlokhande/web-projects)
+
 [![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=gaurravlokhande&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gaurravlokhande/al-folio)
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=gaurravlokhande&repo=gaurravlokhande&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gaurravlokhande/gaurravlokhande)
 [![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=gaurravlokhande&repo=gaurravlokhande.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gaurravlokhande/gaurravlokhande.github.io)
