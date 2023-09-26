@@ -18,7 +18,7 @@
   <samp>
     <a href="https://www.salesforce.com/trailblazer/gauravlokhande">「 Trailhead Me 」</a>
     <br>
-    「 I am a full stack Salesforce developer from <b>Amravati,Maharastra</b> 」
+    「 I am a full stack Salesforce developer from <b>Maharastra</b> 」
     <br>
     <br>
   </samp>
