@@ -8,14 +8,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://gaurravlokhande.github.io/portfolio/">Gaurav</a></b>
+                <b><a target="_blank" href="https://gaurravlokhande.github.io/portfolio">Gaurav</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://gaurravlokhande.github.io/Portfolio/#">「 My Website 」</a>
+    <a href="https://gaurravlokhande.github.io/portfolio">「 My Website 」</a>
     <br>
     「 I am a full stack Salesforce developer from <b>Maharastra</b> 」
     <br>
